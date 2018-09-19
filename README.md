@@ -12,5 +12,6 @@ Chrome extension - quality of life improvements for the online FreeCodeCamp curr
     - For now it is only a content script which does not have access to the address bar. Will add one later.
  ... Not on Chrome playstore yet
 
-[screenshot of extension in action](checkboxFCC/Screen Shot 2018-09-19 at 13.58.11.png)
+
+![screenshot of extension in action](checkboxFCC/Screen Shot 2018-09-19 at 13.58.11.png)
 
