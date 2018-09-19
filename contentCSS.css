@@ -1,0 +1,17 @@
+li strong {
+  cursor: pointer;
+  display: inline-block;
+  margin-right: .5rem;
+  text-decoration: none !important;
+}
+
+.strike {
+  text-decoration: line-through;
+}
+
+.done {
+  border-radius: 4px;
+  background-color: green;
+  color: white;
+  padding: .5rem;
+}
