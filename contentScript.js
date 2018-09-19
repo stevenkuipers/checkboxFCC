@@ -2,7 +2,7 @@
 // Check if the current url is a key in our local storage objects
 // we use the slug as a key in our storage object.
 //
-// So for thus url:
+// So for this url:
 // https://learn.freecodecamp.org/responsive-web-design/responsive-web-design-projects/build-a-product-landing-page/
 // the key would be : build-a-product-landing-page
 
