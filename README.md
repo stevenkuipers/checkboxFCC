@@ -13,5 +13,5 @@ Chrome extension - quality of life improvements for the online FreeCodeCamp curr
  ... Not on Chrome playstore yet
 
 
-![screenshot of extension in action](checkboxFCC/Screen Shot 2018-09-19 at 13.58.11.png)
+![screenshot of extension in action](Screen Shot 2018-09-19 at 13.58.11.png)
 
